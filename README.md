@@ -1,6 +1,6 @@
 #### Sobre: 
 
-> Oie, tudo bem? Me chamo Mirela Oliveira, tenho 18 anos e sou desenvolvedora frontend. <br />
+> Oie, tudo bem? Me chamo Mirela Oliveira, tenho 19 anos e sou desenvolvedora frontend. <br />
 Também sou técnica em informática e graduanda em ADS.
 
 ##
